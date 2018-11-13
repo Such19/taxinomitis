@@ -29,7 +29,7 @@
         "IN20MINS": "විනාඩි 20 න්...",
         "WHAT": {
             "TITLE": "කුමක්ද?",
-            "BODY" : "This tool introduces machine learning by providing hands-on experiences for training machine learning systems and building things with them. <br/><br/>It provides an easy-to-use guided environment for training machine learning models for classifying text, numbers or recognising images. <br/><br/>This builds on existing efforts to introduce and teach coding to children, by adding these models to <a href='https://scratch.mit.edu/about' target='_blank'>Scratch</a> (a widely used educational coding platform), allowing children to create projects and build games with the machine learning models that they've trained. <br/><br/>To learn more, look at:"
+            "BODY" : "මේ tool එක machine learning පද්ධති පුහුණු කිරීම හා ඒවා භාවිතයෙන් නොයෙකුත් දේ තැනිමට අවස්ථාව ලබාදී ඒ අත්දැකීම් මගින් මැශින් ලර්නිං හඳුන්වා දෙයි. <br/><br/>එය text, numbers හා image recognition මගින් classify කිරීම සඳහා machine learning ආකෘති පුහුණු කිරීමට, භාවිතයට පහසු මගපෙන්වූ පරිසරයක් සපයාදෙයි. <br/><br/>මෙය තනා තිබෙන්නේ දැනටමත් ළමයින්ට කෝඩිං හඳුන්වාදීමට හා ඉගැන්වීමට ක්‍රියාකරන  <a href='https://scratch.mit.edu/about' target='_blank'>Scratch</a>(බහුලව භාවිතවන අධ්‍යාපනික coding platform එක), වෙත මෙම ආකෘති එක් කිරීමෙන්, ළමුන්ට ඔවුන් පුහුණු කළ මැශින් ලර්නිං ආකෘති සමග ව්‍යාපෘති නිර්මාණය කිරීමට හා ක්‍රීඩා තැනීමට අවකාශය ලබා දෙමිනි. <br/><br/>වැඩිදුර අධ්‍යනයට, පිවිසෙන්න:"
         },
         "WHY": {
             "TITLE": "ඇයි?",
@@ -37,8 +37,8 @@
         },
         "TECH": {
             "TITLE": "තාක්ෂණය",
-            "BODY": "The tool is entirely web-based and requires no installs or complicated setup to be able to use. <br/><br/>It was designed for use in the classroom by schools and volunteer-run coding groups for children, and provides an admin page for teachers or group leaders to be able to manage and administer access for their students.<br/><br/>It is being built by <a target='_blank' href='http://dalelane.co.uk/'>Dale Lane</a> using APIs from <a target='_blank' href='https://www.ibm.com/watson/developercloud/'>IBM Watson Developer Cloud</a>.",
-            "LOGIN": "To get started: "
+            "BODY": "මෙම මෙවලම සම්පූර්ණයෙන්ම වෙබ් පාදක වන අතර install කිරීමක් හෝ සංකීර්ණ ස්ථාපනයක් අවශ්‍ය නොවේ. <br/><br/>එය පාසල්වල පන්ති කාමර වල හා ළමයින්ට coding උගන්වන ස්වේච්ඡා කණ්ඩායම් වල භාවිතය සඳහා නිර්මාණය කර ඇත, එසේම ගුරුවරුන්ට හා කණ්ඩායම් නායකයන්ට ඔවුන්ගේ ශිෂ්‍යයන් කළමනාකරණයට හා පරිපාලක ප්‍රවේශය ලබාදෙන admin page සපසයි.<br/><br/>එය නිර්මාණය කරන ලද්දේ <a target='_blank' href='http://dalelane.co.uk/'>Dale Lane</a> විසින්  <a target='_blank' href='https://www.ibm.com/watson/developercloud/'>IBM Watson Developer Cloud</a> හි API භාවිතයෙනි.",
+            "login වෙන්න": "වැඩ අරඹන්න : "
         }
     },
     "NEWS": {
@@ -56,48 +56,48 @@
         "PAGENOTFOUND": "පිටුව හමු නොවිණි",
         "NOTLOGGEDIN": "Not logged in",
 
-        "MISSINGPROJECTID": "Missing project id. Go back to ",
-        "IFPERSISTENT": "If this keeps happening, please ",
+        "MISSINGPROJECTID": "Project id එක හමු නොවේ. ආපසු යන්න ",
+        "IFPERSISTENT": "මෙය නැවත නැවත සිදුවන්නේ නම්, කරුණාකර ",
 
-        "LETMEKNOW": "let me know"
+        "LETMEKNOW": "මට දැනුම් දෙන්න"
     },
     "WELCOME": {
-        "TITLE": "Teach a computer to play a game",
-        "GET_STARTED": "Get started",
-        "LEARN_MORE": "Learn more",
-        "ADMIN_LABEL": "Go to your <strong>Admin Page</strong>",
-        "PROJECT_LABEL": "Go to your <strong>Projects</strong>",
-        "STEP_1_TEXT": "Collect examples of things you want to be able to recognise",
-        "STEP_2_TEXT": "Use the examples to train a computer to be able to recognise them",
-        "STEP_3_TEXT": "Make a game in Scratch that uses the computer's ability to recognise them"
+        "TITLE": "computer එකට game එකක් ගහන්න උගන්නමු",
+        "GET_STARTED": "පටන් ගමු",
+        "LEARN_MORE": "තවත් උගනිමු",
+        "ADMIN_LABEL": "<strong>Admin Page</strong> වෙත යන්න",
+        "PROJECT_LABEL": "<strong>Projects</strong> වෙත යන්න",
+        "STEP_1_TEXT": "ඔබට හඳුනාගැනීමට අවශ්‍ය දේවල් වලට උදාහරණ එකතු කරන්න",
+        "STEP_2_TEXT": "ඒ උදාහරණ භාවිතයෙන් computer එක ඒවා හඳුනාගන්න train කරන්න",
+        "STEP_3_TEXT": "ඒවා හඳුනාගැනීමට computer එකට ඇති හැකියාව පාවිච්චි කර Scratch වල game එකක් හදන්න"
     },
     "LOGIN": {
-        "TITLE": "Get started with machine learning",
-        "WELCOME": "Welcome!  It's great that you're interested in having an account to log in to Machine Learning for Kids.",
-        "ALREADY_LOGGEDIN": "<strong>Info: </strong> Already logged in",
+        "TITLE": "Machine learning වෙත පිවිසෙමු",
+        "WELCOME": "සාදරයෙන් පිළිගනිමු! පොඩ්ඩන්ට Machine learning වෙතට log in වීමට ගිණුමක් සාදාගැනීමට ඔබේ ඇති උනන්දුව අගය කර සිටිමු.",
+        "ALREADY_LOGGEDIN": "<strong>Info: </strong> දැනටමත් log in වී ඇත",
         "ERROR": "<strong>Error:</strong> {{ message }}",
-        "ERROR_HELP": "If this keeps happening, please visit our help section",
-        "FIRST_TIME": "First time here?",
-        "SIGN_UP": "Sign up",
-        "WHY_REGISTER": "Why register?",
-        "WHY_REGISTER_INTRO_1": "<strong>You don't have to register or create an account</strong> to use Machine Learning for Kids, but if you do, it does unlock a few features of the tool.",
-        "WHY_REGISTER_INTRO_2": "The grid below explains the difference in what you can do if you click \"Try it now\" without registering, and what you can do if you create an account to log in with.",
-        "ALREADY_REGISTERED": "Already registered?",
-        "LOGIN": "Log in",
-        "FORGOT_DETAILS": "Forgot your details?",
-        "TRY_TITLE": "Try without registering",
-        "TRY_NOW": "Try it now",
+        "ERROR_HELP": "මෙය නැවත නැවත සිදුවන්නේ නම්, කරුණාකර අපේ help page එකට යන්න",
+        "FIRST_TIME": "මෙතැනට අළුත්ද?",
+        "SIGN_UP": "Sing up වෙන්න",
+        "WHY_REGISTER": "ඇයි register වෙන්නෙ?",
+        "WHY_REGISTER_INTRO_1": "පොඩ්ඩන්ට machine learning භාවිතයට <strong> ලියාපදිංචි වීමට හෝ ගිණුම් සෑදීමට අවශ්‍ය නොවේ </strong> නමුත් ඔබ ලියාපදිංචි වුවහොත් මෙවලමට අමතර විශේෂාංග කිහිපයක් එක්වෙයි.",
+        "WHY_REGISTER_INTRO_2": "පහත වගුව මගින් ඔබට ලියාපදිංචි නොවී \"Try it now\" click කිරීම හා ඔබ ගිණුමක් සකස් කළ විට කළ හැකි දේවල් අතර වෙනස පැහැදිලි කරයි.",
+        "ALREADY_REGISTERED": "කලින්ම ලියාපදිංචි වී සිටීද?",
+        "LOGIN": "Log in වෙන්න",
+        "FORGOT_DETAILS": "ඔබේ තොරතුරු අමතක ද?",
+        "TRY_TITLE": "ලියාපදිංචි නොවී උත්සාහ කරන්න",
+        "TRY_NOW": "දැන්ම Try කරල බලන්න",
         "BACK": "@:APP.BACK",
-        "WHO_YOU": "Who are you?",
-        "TEACHER": "A teacher or leader of a coding club",
-        "STUDENT": "A student",
-        "FORGOT_TEXT": "Forgot your username or password? That's okay - we all forget things sometimes."
+        "WHO_YOU": "ඔබ කවුද?",
+        "TEACHER": "ගුරුවරයෙකු හෝ coding club එකක නායකයෙක්",
+        "STUDENT": "ශිෂ්‍යයෙක්",
+        "FORGOT_TEXT": "FORGOT_TEXT": "ඔයාගෙ username එක හරි password එක හරි අමතකද? ඒකට කමක් නෑ - අපි හැමෝටම සමහර වෙලාවට දේවල් අමතක වෙනව."
     },
     "SIGNUP": {
         "TEACHER": {
-            "TITLE": "Are you a teacher or leader of a coding club?",
-            "INFO1": "If you would like access for your students, please create a class account below.",
-            "INFO2": "There are two types of class account - depending on who sets it up."
+            "TITLE": "ඔබ ගුරුවරයෙක්ද නැත්තම් coding club එකක නායකයෙකුද?",
+            "INFO1": "ඔබ ඔබේ ශිෂ්‍යයන් වෙත access කිරීමට අවශ්‍ය නම්, කරුණාකර පහතින් class account එකක් සාදා ගන්න.",
+            "INFO2": "සකස් කරන්නා අනුව - මෙහි class account වර්ග දෙකක් ඇත."
         },
         "UNMANAGED": {
             "TITLE": "Create an <strong>unmanaged</strong> class account",
